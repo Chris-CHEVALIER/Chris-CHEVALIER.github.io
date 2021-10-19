@@ -1,0 +1,47 @@
+@font-face {
+    font-family: "Poppins";
+    src: url("./fonts/poppins.ttf");
+}
+
+a:hover {
+    color: lightblue !important;
+}
+
+body {
+    font-family: "Poppins";
+}
+
+.p-40 {
+    padding: 40px;
+}
+
+.container img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.container h3 {
+    color: #0475ba;
+}
+
+.text-blue {
+    color: #0475ba;   
+}
+
+.bg-blue {
+    background-color: #0475ba;
+}
+
+.container-fluid a {
+    color: white !important;
+}
+
+.container-fluid a:hover {
+    color: lightblue !important;
+}
+
+.link a {
+    color: white;
+}
